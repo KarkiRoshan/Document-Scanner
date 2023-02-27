@@ -1,0 +1,5 @@
+*.h5
+*.png
+app/__pycache__
+/TrOCR
+/Image
